@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 Currently learning **Computer Science year 3 in Royal University of Phnom Penh**
-- ⚛️ Frontend: React, TailwindCSS, HTML, CSS, JavaScript
+- ⚛️ Frontend: React, TailwindCSS, HTML, CSS, JavaScript, TypeScript
 - 🖥 Backend: Node.js, Express
 - 🗄 Database: MongoDB, MySQL
 - 🔧 Also exploring C, C++, C#, Java, and Python
