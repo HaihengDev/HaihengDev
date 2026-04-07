@@ -86,7 +86,7 @@
 
 - GitHub: https://github.com/HaihengDev
 - Email: haihenglim9@gmail.com
-- Telegram: 096 883 0651
+- Telegram: +855 96 883 0651
 
 ---
 
